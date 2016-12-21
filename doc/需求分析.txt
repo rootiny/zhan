@@ -1,0 +1,38 @@
+
+ 2016��12��21��
+ 
+һ����������
+
+1�� չʾͼƬ
+2�� ��������
+3�� ��ʾ������
+4,  ������Ƶ��
+
+
+�������̹�������
+1��gradle��������
+2������ģ����е�Ԫ����ģ��
+
+
+����ѧϰ����--ͨ������jar����ʹ�ã�֪������jar���Ĺ��ܣ���ȱ��
+(http://www.cnblogs.com/androidxufeng/p/5615596.html)
+1��Rxjava
+2, volley
+3, android-async-http
+4, Afinal
+5, xUtils
+6  ThinkAndroid
+7, LoonAndroid
+8, AndroidAnnotations
+9, RoboGuice
+10, Fresco
+11��ActiveAndroid
+12��Android-Universal-Image-Loader
+13, KJFrameForAndroid
+
+�ģ� ��������
+
+1�� jniʵ�ֲ��ֹ���
+2�� �Զ��岿��view��groupview
+3�� ���ֶ�����ʹ��
+4�� ���ֻ����¼��Ĵ���
