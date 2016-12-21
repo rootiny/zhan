@@ -1,22 +1,22 @@
 
- 2016��12��21��
+ 2016年12月21日
  
-һ����������
+一，功能需求
 
-1�� չʾͼƬ
-2�� ��������
-3�� ��ʾ������
-4,  ������Ƶ��
-
-
-�������̹�������
-1��gradle��������
-2������ģ����е�Ԫ����ģ��
+1， 展示图片
+2， 播放音乐
+3， 显示电子书
+4,  播放视频流
 
 
-����ѧϰ����--ͨ������jar����ʹ�ã�֪������jar���Ĺ��ܣ���ȱ��
+二，工程构建需求
+1，gradle构建工程
+2，各个模块具有单元测试模块
+
+
+三，学习需求--通过主流jar包的使用，知道各个jar包的功能，优缺点
 (http://www.cnblogs.com/androidxufeng/p/5615596.html)
-1��Rxjava
+1，Rxjava
 2, volley
 3, android-async-http
 4, Afinal
@@ -26,13 +26,13 @@
 8, AndroidAnnotations
 9, RoboGuice
 10, Fresco
-11��ActiveAndroid
-12��Android-Universal-Image-Loader
+11，ActiveAndroid
+12，Android-Universal-Image-Loader
 13, KJFrameForAndroid
 
-�ģ� ��������
+四， 技术需求
 
-1�� jniʵ�ֲ��ֹ���
-2�� �Զ��岿��view��groupview
-3�� ���ֶ�����ʹ��
-4�� ���ֻ����¼��Ĵ���
+1， jni实现部分功能
+2， 自定义部分view和groupview
+3， 各种动画的使用
+4， 各种滑动事件的处理
